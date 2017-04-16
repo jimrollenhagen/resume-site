@@ -32,7 +32,7 @@ disable404 = true
     [params.profile]
         name = "Jim Rollenhagen"
         tagline = "Software Developer"
-        avatar = "coffee.png"
+        avatar = "profile.png"
 
     # Contact section
     [params.contact]
