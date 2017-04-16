@@ -1,3 +1,3 @@
-https://jimrollenhagen.com/resume
+https://jimrollenhagen.com
 
 Hugo generator for my resume.
