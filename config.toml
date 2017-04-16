@@ -16,6 +16,7 @@ disable404 = true
 # Meta
     description = "Resume"
     author = "Jim Rollenhagen"
+    title = "Jim Rollenhagen"
 
 # Theme styles
 
