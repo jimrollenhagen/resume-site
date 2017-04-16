@@ -179,6 +179,31 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
 * Wrote a certified electronic prescription service, allowing doctors to directly submit a patient's prescriptions to their preferred pharmacy, reducing errors and fake prescriptions.
 """
 
+        [[params.jobs.list]]
+        position = "Software Engineer"
+        dates = "2011 - 2012"
+        company = "General Motors"
+        details = """
+* Built software to improve workflow and efficiency in the hybrid battery systems lab test engineering group.
+* Wrote a JSON API frontend for the lab's monitoring software with periodic polling and caching of data. This allowed developers to avoid using an XSLT-based API that often took minutes to load.
+* Built a responsive web interface to allow mobile users to monitor the lab as a whole, individual tests, and active alarms.
+* Moved the test software team from using copies of source code with dates to mercurial.
+* Wrote deployment tooling to safely distribute updated test scripts to test machines, and restart when the system was idle.
+* Helped online new battery labs in Canada and China. Integrated new labs into central monitoring and deploy software, and assisted remote engineers with setup and problems.
+"""
+
+        [[params.jobs.list]]
+        position = "Software Engineer Co-op Student"
+        dates = "2009 - 2012"
+        company = "General Motors"
+        details = """
+* Built life-cycle test scripts for the first-generation Chevy Volt battery. A two year test simulates 10 years of driving. Enabled the test to be easily restarted to provide for software updates.
+* Wrote software to pull data from Volt life-cycle test machines, aggregate the data, and build visualizations. This helped highlight anomalies and issues early, while giving management a 10,000 foot view of the progress and results.
+* Contributed features and bug fixes to common test script code, including hardware device controllers and generic test blocks.
+* Began effort to refactor code from test scripts for various battery models into common code.
+* Made a prototype Android app to monitor and control basic functionality for test machines.
+"""
+
     # Projects section
     [params.projects]
         enable = true
