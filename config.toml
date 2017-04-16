@@ -81,7 +81,7 @@ disable404 = true
         title = "Education"
 
         [[params.education.list]]
-        degree = "BSc in Computer Engineering"
+        degree = "BS in Computer Engineering"
         college = "Kettering University"
         dates = "2005 - 2011"
 
