@@ -194,7 +194,7 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
 
         [[params.jobs.list]]
         position = "Software Engineer Co-op Student"
-        dates = "2009 - 2012"
+        dates = "2009 - 2011"
         company = "General Motors"
         details = """
 * Built life-cycle test scripts for the first-generation Chevy Volt battery. A two year test simulates 10 years of driving. Enabled the test to be easily restarted to provide for software updates.
