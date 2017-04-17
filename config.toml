@@ -140,8 +140,8 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
         details = """
 * Worked primarily upstream on OpenStack Ironic as Project Team Lead and core reviewer.
 * Served as Tech Lead for the Ironic project within the OpenStack Innovation Center, leading planning efforts and guiding other team members.
-* Built and operated OnMetal, a bare metal public cloud.
-* Planned, architected, built, and operated OnMetal v2, a major improvement on OnMetal.
+* Built and operated OnMetal, one of the first public cloud bare metal provisioning products. OnMetal provisions servers in minutes, thousands of times every day.
+* Planned, architected, built, and operated OnMetal v2, adding software networking features, storage connections, Windows support, and RAID 1 boot devices to OnMetal.
 * Implemented zero-downtime upgrades for the OnMetal products, allowing our team to go from monthly deploys to multiple deploys per week.
 * Mentored teammates to help them grow as engineers.
 * Jumped in to help other teams with technical problems when needed.
