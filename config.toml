@@ -41,9 +41,9 @@ disable404 = true
 
         [[params.contact.list]]
         class = ""
-        icon = "fa-file-o"
+        icon = "fa-file"
         url = "https://jimrollenhagen.com/resume.pdf"
-        title = "PDF Version"
+        title = "PDF Resume"
 
         [[params.contact.list]]
         class = "email"
