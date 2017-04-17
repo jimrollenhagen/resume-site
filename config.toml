@@ -40,6 +40,12 @@ disable404 = true
         enable = true
 
         [[params.contact.list]]
+        class = ""
+        icon = "fa-file-o"
+        url = "https://jimrollenhagen.com/resume.pdf"
+        title = "PDF Version"
+
+        [[params.contact.list]]
         class = "email"
         icon = "fa-envelope"
         url = "mailto:jim@jimrollenhagen.com"
