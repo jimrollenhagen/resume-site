@@ -141,7 +141,7 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
 * Built a grain marketing feature from scratch that allows farmers to optimize how they sell their crops.
 * Drove change to make the engineering team remote-first, leading to better collaboration, hiring more talent, and happier engineers.
 * Built a crop planner feature that helps farmers plan their year ahead of time and optimize expenses and activities.
-* Helped plan and roll out a new architecture for our CI/CD pipeline, to enable deployments for every commit for every microservice.
+* Helped plan and roll out a new architecture for our CI/CD pipeline based on Kubernetes and Helm, to enable deployments for every commit for every microservice.
 * Re-worked how our auth service handles email and rabbit connections, making many actions less fragile.
 """
 
