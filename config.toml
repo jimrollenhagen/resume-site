@@ -134,6 +134,14 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
         title = "Experiences"
 
         [[params.jobs.list]]
+        position = "Principal Software Engineer"
+        dates = "2017 - Present"
+        company = "Oath"
+        details = """
+* Delivering infrastructure.
+"""
+
+        [[params.jobs.list]]
         position = "Senior Software Engineer"
         dates = "2017"
         company = "FarmLogs"
@@ -161,7 +169,7 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
 
         [[params.jobs.list]]
         position = "Project Team Lead and Core Reviewer"
-        dates = "2014 - Present"
+        dates = "2014 - 2017"
         company = "OpenStack Ironic"
         details = """
 * Served as Project Team Lead (PTL) for Mitaka, Newton, and Ocata development cycles. Set roadmap and priorities. Team increased commit frequency by 20% from Mitaka to Newton, and 60% from Newton to Ocata.
