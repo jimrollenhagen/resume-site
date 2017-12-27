@@ -107,7 +107,10 @@ disableKinds = ["404", "RSS", "sitemap"]
         interest = "Cooking"
 
         [[params.interests.list]]
-        interest = "Bicycling"
+        interest = "Homebrewing"
+
+        [[params.interests.list]]
+        interest = "Fitness"
 
         [[params.interests.list]]
         interest = "Cars"
