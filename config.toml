@@ -143,6 +143,21 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
 """
 
         [[params.jobs.list]]
+        position = "Project Team Lead and Core Reviewer"
+        dates = "2014 - Present"
+        company = "OpenStack Ironic"
+        details = """
+* Served as Project Team Lead (PTL) for Mitaka, Newton, and Ocata development cycles. Set roadmap and priorities. Team increased commit frequency by 20% from Mitaka to Newton, and 60% from Newton to Ocata.
+* Served as core reviewer, approving code since summer 2014.
+* Managed code releases since Liberty cycle, and changed release model from "every 6 months" to "when there's good code to release", typically 1-2 months.
+* Led architecture of multi-tenant networking features, giving users private networking capabilities and integration with software networking systems.
+* Led development and integration for the "agent" deploy driver, offering a more scalable and less error-prone deployment method.
+* Developed high availability capabilities for the Ironic driver running in the nova-compute service.
+* Worked with the Nova team to improve how scheduling works for Ironic instances.
+* Repaired broken relationships with the Nova project team, leading to better collaboration between the teams.
+"""
+
+        [[params.jobs.list]]
         position = "Senior Software Engineer"
         dates = "2017"
         company = "FarmLogs"
@@ -166,21 +181,6 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
 * Implemented zero-downtime upgrades for the OnMetal products, allowing our team to go from monthly deploys to multiple deploys per week.
 * Mentored teammates to help them grow as engineers.
 * Jumped in to help other teams with technical problems when needed.
-"""
-
-        [[params.jobs.list]]
-        position = "Project Team Lead and Core Reviewer"
-        dates = "2014 - 2017"
-        company = "OpenStack Ironic"
-        details = """
-* Served as Project Team Lead (PTL) for Mitaka, Newton, and Ocata development cycles. Set roadmap and priorities. Team increased commit frequency by 20% from Mitaka to Newton, and 60% from Newton to Ocata.
-* Served as core reviewer, approving code since summer 2014.
-* Managed code releases since Liberty cycle, and changed release model from "every 6 months" to "when there's good code to release", typically 1-2 months.
-* Led architecture of multi-tenant networking features, giving users private networking capabilities and integration with software networking systems.
-* Led development and integration for the "agent" deploy driver, offering a more scalable and less error-prone deployment method.
-* Developed high availability capabilities for the Ironic driver running in the nova-compute service.
-* Worked with the Nova team to improve how scheduling works for Ironic instances.
-* Repaired broken relationships with the Nova project team, leading to better collaboration between the teams.
 """
 
         [[params.jobs.list]]
