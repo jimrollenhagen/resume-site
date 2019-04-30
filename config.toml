@@ -135,11 +135,19 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
         title = "Experiences"
 
         [[params.jobs.list]]
-        position = "Principal Software Engineer"
+        position = "Senior Principal Software Engineer"
         dates = "2017 - Present"
-        company = "Oath"
+        company = "Verizon Media (formerly Oath)"
         details = """
-* Delivering infrastructure.
+* Delivering infrastructure. At scale. With OpenStack. On-prem and at the edge.
+"""
+
+        [[params.jobs.list]]
+        position = "Technical Committee Member"
+        dates = "2019 - Present"
+        company = "OpenStack"
+        details = """
+* The OpenStack Technical Committee is one of the governing bodies of the OpenStack project. It is an elected group that represents the contributors to the project, and has oversight on all technical matters.
 """
 
         [[params.jobs.list]]
