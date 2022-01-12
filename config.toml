@@ -31,7 +31,7 @@ disableKinds = ["404", "RSS", "sitemap"]
     [params.profile]
         name = "Jim Rollenhagen"
         tagline = "Software Engineer"
-        avatar = "face.png"
+        avatar = "face.jpg"
 
     # Contact section
     [params.contact]
