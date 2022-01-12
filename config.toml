@@ -65,7 +65,7 @@ disableKinds = ["404", "RSS", "sitemap"]
         class = "github"
         icon = "fa-github"
         url = "https://github.com/jimrollenhagen"
-        title = "/jimrollenhagen"
+        title = "jimrollenhagen"
 
         [[params.contact.list]]
         class = ""
@@ -113,7 +113,7 @@ disableKinds = ["404", "RSS", "sitemap"]
         interest = "Fitness"
 
         [[params.interests.list]]
-        interest = "Cars"
+        interest = "Finance"
 
 # Main body sections
 
@@ -124,7 +124,7 @@ disableKinds = ["404", "RSS", "sitemap"]
         enable = true
         icon = "fa-user"
         title = "Career Profile"
-        summary = """I am a software developer that enjoys designing, building, and operating large-scale software systems. I've primarily worked in Python, but am happy working in all sorts of tech stacks. I'm not afraid of the frontend, but backend development is where my skills truly shine.
+        summary = """I am a software developer that enjoys designing, building, and operating large-scale software systems. I've primarily worked in Python and Go, but am happy working in all sorts of tech stacks. I'm not afraid of the frontend, but backend development and cloud infrastructure is where my skills truly shine.
 
 When I'm not writing code, I am an enabler in every sense of the word, acting as a force multiplier for the people around me. I tear through political blockers, and anything else in the way, to allow people around me to solve real problems."""
 
@@ -135,16 +135,30 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
         title = "Experiences"
 
         [[params.jobs.list]]
+        position = "Principal Software Engineer, Team Lead"
+        dates = "2021 - present"
+        company = "Okta"
+        details = """
+* Served as team lead for Advanced Server Access core team, responsible for frameworks, infrastructure, performance, observability, deployments, and security.
+* Designed and built “cells” infrastructure, reducing failure domain and enabling horizontal scale.
+* Built integration with Okta platform to seamlessly onboard Okta users into ASA.
+* Led migration from containers running on EC2 instances to EKS, reducing operational toil and effort to deploy new services.
+"""
+
+        [[params.jobs.list]]
         position = "Senior Principal Software Engineer"
-        dates = "2017 - Present"
+        dates = "2017 - 2021"
         company = "Verizon Media (formerly Oath)"
         details = """
-* Delivering infrastructure. At scale. With OpenStack. On-prem and at the edge.
+* Led architecture and technical direction for OpenStack team managing tens of clusters with over four million CPU cores.
+* Migrated control planes to container-based deployments, increasing safety and speed of deployments.
+* Worked with community to upstream a number of in-house features in Ironic and Nova, reducing maintenance costs.
+* Designed and built 5G MEC infrastructure platform, based on OpenStack, to bring ultra-low latency applications closer to consumers.
 """
 
         [[params.jobs.list]]
         position = "Technical Committee Member"
-        dates = "2019 - Present"
+        dates = "2019 - 2020"
         company = "OpenStack"
         details = """
 * The OpenStack Technical Committee is one of the governing bodies of the OpenStack project. It is an elected group that represents the contributors to the project, and has oversight on all technical matters.
@@ -152,7 +166,7 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
 
         [[params.jobs.list]]
         position = "Project Team Lead and Core Reviewer"
-        dates = "2014 - Present"
+        dates = "2014 - 2020"
         company = "OpenStack Ironic"
         details = """
 * Served as Project Team Lead (PTL) for Mitaka, Newton, and Ocata development cycles. Set roadmap and priorities. Team increased commit frequency by 20% from Mitaka to Newton, and 60% from Newton to Ocata.
