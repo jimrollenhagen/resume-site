@@ -137,7 +137,7 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
         [[params.jobs.list]]
         position = "Senior Software Engineer"
         dates = "2022 - present"
-        company = "Okta"
+        company = "Stripe"
         details = """
 Observability - Diagnostics
 """
