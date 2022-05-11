@@ -135,8 +135,16 @@ When I'm not writing code, I am an enabler in every sense of the word, acting as
         title = "Experiences"
 
         [[params.jobs.list]]
+        position = "Senior Software Engineer"
+        dates = "2022 - present"
+        company = "Okta"
+        details = """
+Observability - Diagnostics
+"""
+
+        [[params.jobs.list]]
         position = "Principal Software Engineer, Team Lead"
-        dates = "2021 - present"
+        dates = "2021 - 2022"
         company = "Okta"
         details = """
 * Served as team lead for Advanced Server Access core team, responsible for frameworks, infrastructure, performance, observability, deployments, and security.
